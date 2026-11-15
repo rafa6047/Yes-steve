@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: YesSteveModel
+Implementation-Version: 2.6.5-neoforge+mc26.1
+
